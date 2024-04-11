@@ -220,3 +220,69 @@ footer p {
     transform: scale(1.3);
     transition: 0.5s;
 }
+
+
+
+
+
+@media (max-width: 1000px){
+    .caixa-principal {
+        height: 1000px;
+        width: 800px;
+        flex-direction:column;
+        
+    }
+
+    h1{
+        font-size: 50px;
+    }
+
+    h1 span{
+        font-size: 50px;
+    }
+
+    nav{
+        font-size: 20px;
+        
+        flex-direction: column;
+        
+    }
+
+    .meu-nome h3{
+        font-size: 20px;
+        flex-direction: column;
+    }
+
+    section{
+        font-size: 40px;
+        height: 1000px;
+        width: 800px;
+    }
+
+    .projetos{
+        height: 1000px;
+        width: 800px;
+        flex-direction: column;
+    }
+
+    .card-projetos{
+        height: 1000px;
+        width: 800px;
+        flex-direction: column;
+        align-items: center;
+        
+
+    }
+
+    .social{
+        height: 500px;
+        width: 200px;
+    }
+
+    footer{
+        height: 1000px;
+        width: 800px;
+    }
+
+    
+}
