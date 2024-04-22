@@ -81,6 +81,10 @@ section {
 
 section img {
     height: 400px;
+     width: 1px;
+    border-radius: 200%;
+    border: 2px solid #e1ddde;
+    margin-right: 20px;
 
 }
 
