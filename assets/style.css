@@ -285,5 +285,22 @@ footer p {
         align-items: center;
     }
 
+
+footer h5 {
+    color: white;
+    font-size: 30px;
+    margin-top: 20px; /* Ajusta o valor xo */
+}
+
+footer p {
+    color: white;
+    font-size: 18px;
+    margin-top: 14px; /* Ajusta o valoo */
+    margin-bottom: 30px;
+}
+
+
+    
+
     
 }
