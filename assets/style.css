@@ -276,6 +276,7 @@ footer p {
     .social{
         height: 500px;
         width: 200px;
+        margin-top: 50px;
     }
 
     footer{
@@ -290,6 +291,7 @@ footer h5 {
     color: white;
     font-size: 30px;
     margin-top: 60px; /* Ajusta o valor xo */
+    display: none;
 }
 
 footer p {
