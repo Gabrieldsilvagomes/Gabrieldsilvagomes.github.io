@@ -79,13 +79,7 @@ section {
     background-color: #191919;
 }
 
-section img {
-    height: 400px;
-    width: 1px;
-    border-radius: 200%;
-    border: 2px solid #f9004d;
-    margin-right: 20px;
-}
+
 
 section div h2 {
     color: white;
