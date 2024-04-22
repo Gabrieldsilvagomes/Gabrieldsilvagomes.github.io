@@ -79,15 +79,10 @@ section {
     background-color: #191919;
 }
 
+
 section img {
-    height: 400px;
-     width: 1px;
-    border-radius: 200%;
-    border: 2px solid #e1ddde;
-    margin-right: 20px;
-
-}
-
+    height: 400px; /* Defina a altura da imagem */
+    margin-right: 20px; 
 
 section div h2 {
     color: white;
