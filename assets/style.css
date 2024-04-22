@@ -5,7 +5,14 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 
-
+.caixa-principal {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./img/analista1.jpg;
+    background-size: cover;
+    background-position: center;
+    background-color: #191919;
+}
 
 nav {
     display: flex;
